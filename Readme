@@ -11,7 +11,7 @@ Services provided by the platform:
 	b) This functionality makes it a highly scalable. If load increases machine and service 
 	   instances are provisioned and as soon as it drops, instances are relieved to make it cost efficient. 
 3. Logging service provides the app-developer a seamless interface to log all the events occuring to his service.
-4. SendMail service is an easy to use service to send an emal. 
+4. SendMail service is an easy to use service to send an email. 
 
 Technologies Used:
 1. Java 
